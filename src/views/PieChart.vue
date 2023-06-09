@@ -1,4 +1,5 @@
 <template>
+  <p>123</p>
   <div class="col-12 d-flex align-items-center justify-content-center mb-6">
     <button
       type="button"
